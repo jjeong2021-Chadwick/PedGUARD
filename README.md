@@ -1,7 +1,7 @@
 # PedGUARD
 Pedestrian's Guiding Utility
 
-PedGUARD a convolutional neural networkbased mobile application that detects
+PedGUARD a convolutional neural network based mobile application that detects
 dangers on the streets and alerts the user through vibration is an extension of my
 work on the LaneSensing Detector The system is designed to run in a realtime
 environment and is trained to detect a number of objects ie manholes
